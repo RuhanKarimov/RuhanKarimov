@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RuhanKarimov
-- 👀 I’m interested in game development 
-- 🌱 I’m currently learning c# programming language
+- 👀 I’m interested in data engineering
+- 🌱 I’m learning c#, python, java programming languages and html, css, javascript
 - 📫 How to reach me ... ruhankarimovwork@gmail.com
 
 <!---
